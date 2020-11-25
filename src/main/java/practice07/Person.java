@@ -1,7 +1,5 @@
 package practice07;
 
-import java.util.Objects;
-
 public class Person {
     private final String name;
     private final int age;
